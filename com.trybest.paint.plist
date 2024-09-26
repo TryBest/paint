@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.TryBest.Paint</key>
+	<dict>
+		<key>5.7.3</key>
+		<false/>
+		<key>5.7.4</key>
+                <false/>
+                <key>7.11.5</key>
+                <true/>
+                <key>AllowChooseForFirstPurchase</key>
+                <true/>
+                <key>UseDefaultFullVersion</key>
+                <false/>
+		<key>AllowOneMonthIAPForFirstPurchase</key>
+                <true/>
+                <key>DefaultSelectedIAPId</key>
+                <string>SubscribeOneYearMemberShip</string>
+		<key>ShowPriceInUpgradeWindow</key>
+		<false/>
+		<key>ConfirmBeforePurchase</key>
+		<false/>
+		<key>ShowFullVersionValidateDuration</key>
+                <true/>
+		<key>ShowOneYearMembershipValidateDuration</key>
+                <true/>
+	</dict>
+	<key>com.TryBest.PaintPadLite</key>
+        <dict>
+                <key>5.6.2</key>
+                <false/>
+                <key>5.6.3</key>
+                <false/>
+                <key>7.9.1</key>
+                <true/>
+		<key>ShowPriceInUpgradeWindow</key>
+                <true/>
+		<key>ConfirmBeforePurchase</key>
+                <false/>
+        </dict>
+</dict>
+</plist>
